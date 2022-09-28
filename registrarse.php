@@ -14,7 +14,7 @@
 <body>
 
     <?php
-        require 'partials/header.php'
+        require 'partials/header.php';
     ?>
 
     <h1>Registrarse</h1>
